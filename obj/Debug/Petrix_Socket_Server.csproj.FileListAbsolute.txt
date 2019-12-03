@@ -1,0 +1,9 @@
+C:\Users\mr_pi\source\repos\Petrix_Socket_Server\Petrix_Socket_Server\bin\Debug\Petrix_Socket_Server.exe.config
+C:\Users\mr_pi\source\repos\Petrix_Socket_Server\Petrix_Socket_Server\bin\Debug\Petrix_Socket_Server.exe
+C:\Users\mr_pi\source\repos\Petrix_Socket_Server\Petrix_Socket_Server\bin\Debug\Petrix_Socket_Server.pdb
+C:\Users\mr_pi\source\repos\Petrix_Socket_Server\Petrix_Socket_Server\obj\Debug\Petrix_Socket_Server.csprojAssemblyReference.cache
+C:\Users\mr_pi\source\repos\Petrix_Socket_Server\Petrix_Socket_Server\obj\Debug\Petrix_Socket_Server.Form1.resources
+C:\Users\mr_pi\source\repos\Petrix_Socket_Server\Petrix_Socket_Server\obj\Debug\Petrix_Socket_Server.Properties.Resources.resources
+C:\Users\mr_pi\source\repos\Petrix_Socket_Server\Petrix_Socket_Server\obj\Debug\Petrix_Socket_Server.csproj.GenerateResource.cache
+C:\Users\mr_pi\source\repos\Petrix_Socket_Server\Petrix_Socket_Server\obj\Debug\Petrix_Socket_Server.exe
+C:\Users\mr_pi\source\repos\Petrix_Socket_Server\Petrix_Socket_Server\obj\Debug\Petrix_Socket_Server.pdb
